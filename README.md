@@ -1,5 +1,6 @@
 # mean-ionic-ng2
 
+- App: jwt auth, simple to do list
 - Backend: Node, Express, passport-jwt
 - Mobile: Ionic 2
 - Web: Angular 2
